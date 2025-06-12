@@ -1,0 +1,17 @@
+id,title,authors,summary,published,updated,primary_category,categories,pdf_url,is_english
+http://arxiv.org/abs/2001.02650v1,Techniques d'anonymisation tabulaire : concepts et mise en oeuvre,"Benjamin Nguyen, Claude Castelluccia","In this document, we present a state of the art of anonymization techniques
+for classical tabular datasets. This article is geared towards a general public
+having some knowledge of mathematics and computer science, but with no need for
+specific knowledge in anonymization. The objective of this document it to
+explain anonymization concepts in order to be able to sanitize a dataset and
+compute reindentification risk. The document contains a large number of
+examples to help understand the calculations.
+  -----
+  Dans ce document, nous pr\'esentons l'\'etat de l'art des techniques
+d'anonymisation pour des bases de donn\'ees classiques (i.e. des tables), \`a
+destination d'un public technique ayant une formation universitaire de base en
+math\'ematiques et informatique, mais non sp\'ecialiste. L'objectif de ce
+document est d'expliquer les concepts permettant de r\'ealiser une
+anonymisation de donn\'ees tabulaires, et de calculer les risques de
+r\'eidentification. Le document est largement compos\'e d'exemples permettant
+au lecteur de comprendre comment mettre en oeuvre les calculs.",2020-01-08,2020-01-08,cs.CR,"cs.CR, cs.CY, cs.DB",http://arxiv.org/pdf/2001.02650v1,False
