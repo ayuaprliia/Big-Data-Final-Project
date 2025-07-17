@@ -5,7 +5,6 @@ seaborn
 langdetect
 pymongo
 tqdm
-nltk
 transformers
 torch
 sentence-transformers
