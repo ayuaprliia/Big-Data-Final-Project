@@ -1,0 +1,15 @@
+arxiv
+pandas
+matplotlib
+seaborn
+langdetect
+pymongo
+tqdm
+nltk
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+joblib
+gradio
